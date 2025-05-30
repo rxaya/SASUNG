@@ -1,3 +1,3 @@
-90FPS SASUNG
+90FPS SAMSUNG 
 Installing
 
